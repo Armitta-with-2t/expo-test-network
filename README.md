@@ -10,7 +10,7 @@ to install the expo app. Then use
 npm start
 ```
 
-## Main target problem:
+## Main target problems:
 
 ### 1- Network error for api calling in the android version
 ### => Solutions that didn't work for me:
@@ -26,12 +26,24 @@ npm start
 
 ❌ Running the app using tunnel (needed ngrok)
 
+✔️ Used a backend server!
+
 
 ### 2- Failed to download remote update, in Expo Go:
-### => Solutions that did'nt work for me:
+### => Solutions that didn't work for me:
 ❌ Reinstalling Expo Go
 
 ❌ Using another wifi 
 
-❌ 
+❌ Changing android CheckUpdatesOnLaunch from ALWAYS to NEVER
+
+✔️ Didn't pay attention to expo go! The website app was enough for debugging!
+
+### 3- EAS Build would face restrict the upload
+### Solutions that didn't work for me:
+❌ Using VPN
+
+❌ Changing wifi
+
+✔️ Clearing cache and changing DNS!
 
