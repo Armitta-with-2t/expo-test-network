@@ -2,7 +2,7 @@
 
 # Simple Random Card Picker App
 
-### This app was made to test Expo + Flask development. 
+### This app was made to test Expo + Flask development. As it was seen,the app works nicely as a website app, but would fail to do so as a mobile version using Expo Go.
 
 
 ## Main target problem:
