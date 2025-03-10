@@ -39,7 +39,7 @@ npm start
 
 ✔️ Didn't pay attention to expo go! The website app was enough for debugging!
 
-### 3- EAS Build would face restrict the upload
+### 3- EAS Build would face restriction for the upload
 ### Solutions that didn't work for me:
 ❌ Using VPN
 
