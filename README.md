@@ -13,4 +13,5 @@
 ### Adding the androidCleartraffic true line to the AndoidManifest.xml 
 ### Changing run.py to include different things for example threaded true
 ### Trying to download ngrok 
+### Running the app using tunnel (needed ngrok)
 
